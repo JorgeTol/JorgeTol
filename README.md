@@ -11,6 +11,6 @@ La programación lo tengo como una afición y algunos de los trabajos que pueda 
 | Lenguaje |  Estado |
 | --- | --- |
 | Python | Actualmente al que mayor tiempo dedico por formación y proyectos |
-| Python Big Data | En formación |
+| Python Big Data, SQL | En formación |
 | Python IA | En formación |
-| PHP Laravel | Mantenimiento de aplicaciones realizadas |
+| PHP Laravel | Mantenimiento y actualizaciones de aplicaciones realizadas |
