@@ -1,6 +1,6 @@
 ## Sobre mi
 
-Desde el 2000 me inicié en el mundo de la programación y hasta la fecha he ido aprendiendo diferentes lenguajes, me inicie con HTML y CSS y posteriormente me especialicé con la creación de páginas web y aplicaciones web dinámicas con PHP, MySQL y gestión de servidores.
+Desde el 2000 me inicié en el mundo de la programación y hasta la fecha he ido aprendiendo diferentes lenguajes, me inicie con HTML y CSS y posteriormente me especialicé con la creación de páginas web, aplicaciones web dinámicas con PHP, MySQL y gestión de servidores.
 
 Experiencia en projectos con Laravel, un potente Framework de PHP. 
 Otro lenguaje con el que llevo tiempo es Python, tengo la Certificación de Python Institute PCAP. Estoy en continua formación de dicho lenguaje en la aplicación de Big Data, AI, etc.
